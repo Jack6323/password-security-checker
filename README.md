@@ -49,16 +49,3 @@ A security score is generated and the password is classified as:
 
 The tool also outputs suggestions to help improve password strength.
 
----
-
-## Example Output
-```text
-Enter your password: Test123!
-
---- Password Analysis ---
-Moderate Password
-
-Improve your password by adding:
-- a special character (if missing)
-- a number (if missing)
-- an uppercase letter (if missing)
